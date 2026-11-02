@@ -1,10 +1,3 @@
-## 👋 Hi there!
+Hi, I'm Adrian. I'm a marine ecologist at UC Santa Barbara, where I study how coral reefs and kelp forests recover and teach fish biology and marine ecology.
 
-My name is Adrian and I'm an Associate Professor at the [University of California Santa Barbara](https://www.ucsb.edu/) in the [Ecology, Evolution, and Marine Biology Department](https://www.eemb.ucsb.edu/) 
-
-I am an ecologist and conservation biologist interested in the recovery of degraded ocean ecosystems. You can learn more about me and my lab [here](https://www.oceanrecoveries.com/).
-  
-
-- 📫 You can find my contact info [here](https://www.oceanrecoveries.com/).
-
-- 😄 Pronouns: He/Him/His
+Here you'll find research code, teaching materials, and tools I've been working on.
